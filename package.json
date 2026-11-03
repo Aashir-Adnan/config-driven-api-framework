@@ -1,0 +1,20 @@
+{
+  "name": "config-driven-api-framework",
+  "version": "0.1.0",
+  "description": "Architecture overview and interface skeleton for a configuration-driven REST API framework: declare an endpoint as data and let a middleware pipeline handle auth, validation, permissions, versioning and database access.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "api-framework",
+    "middleware",
+    "rest",
+    "declarative",
+    "architecture"
+  ],
+  "license": "MIT"
+}
