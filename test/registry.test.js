@@ -41,7 +41,7 @@ test('describe() summarizes routes for documentation', () => {
 });
 
 test('the bundled example definitions are valid', () => {
-  assert.equal(apis.length, 3);
+  assert.equal(apis.length, 6);
 });
 
 test('error helpers carry status and code', () => {
