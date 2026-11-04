@@ -6,7 +6,7 @@
  *   DatabaseFactory.register('postgres', PostgresDatabase);
  *   const db = DatabaseFactory.create({ driver: 'postgres', ...connectionOptions });
  *
- * No drivers are registered in the public skeleton.
+ * The bundled SQLite driver is registered as "sqlite" in src/index.js.
  */
 class DatabaseFactory {
   static drivers = new Map();
