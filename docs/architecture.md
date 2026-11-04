@@ -1,6 +1,6 @@
 # Architecture
 
-This document explains how the framework is structured and why. The code in this repository is an interface skeleton; see the README for which parts are implemented.
+This document explains how the framework is structured and why. The framework is implemented and tested; see the README for a runnable example and test/demo commands.
 
 ## 1. Goals
 
